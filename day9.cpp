@@ -1,4 +1,4 @@
-Linked List that is Sorted Alternatingly
+//Linked List that is Sorted Alternatingly
 #include<iostream>
 using namespace std;
 class Solution
