@@ -1,6 +1,11 @@
 {
       "files.associations": {
             "*.embeddedhtml": "html",
-            "vector": "cpp"
+            "vector": "cpp",
+            "iosfwd": "cpp",
+            "algorithm": "cpp",
+            "*.tcc": "cpp",
+            "chrono": "cpp",
+            "random": "cpp"
       }
 }
