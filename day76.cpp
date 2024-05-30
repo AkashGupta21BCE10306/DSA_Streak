@@ -1,6 +1,6 @@
  class Solution {
   public:
-  int countWays(string S1, string S2){
+  dint countWays(string S1, string S2){
     string S=S1;
     string T=S2;
     int n=S.size();
